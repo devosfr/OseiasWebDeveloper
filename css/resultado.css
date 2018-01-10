@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+section#resultado {
+ width:80%;
+ height:80%;
+ margin: 0 auto;
+ margin-bottom:200px;
+ background:none;
+ z-index:180;
+ }
